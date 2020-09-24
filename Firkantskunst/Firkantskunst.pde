@@ -1,5 +1,5 @@
 int antalKasserNed = 18;
-//hej
+
 
 void setup() {
  size(800, 800);
